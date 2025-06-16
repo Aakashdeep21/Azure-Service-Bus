@@ -58,6 +58,10 @@
 
 <p><strong>Peek from the start to get the information</strong></p>
 
+![image](https://github.com/user-attachments/assets/05f16a90-7e33-413d-8899-72efe1a44286)
+
+
+![image](https://github.com/user-attachments/assets/bc6f6dcc-2ed3-4c2a-ac6f-ffa30b8ba53b)
 
 
 
